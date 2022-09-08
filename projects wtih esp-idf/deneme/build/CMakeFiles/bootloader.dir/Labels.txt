@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/CMakeFiles/bootloader
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/CMakeFiles/bootloader.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/CMakeFiles/bootloader-complete.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/goko/Desktop/controlix/esp-idf/projects/deneme/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
